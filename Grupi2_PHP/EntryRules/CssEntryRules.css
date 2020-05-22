@@ -1,0 +1,42 @@
+#nav{   
+    margin :20px 0 20px 0;
+    text-align: start;
+    overflow: hidden;
+    background-color: #333333;
+    border-radius: 10px;
+}
+
+#nav li{
+    display: inline;
+    padding: 4px;
+}
+
+#nav li a
+{
+    color:#FBFBFB;
+    text-decoration:none;
+    font-size: 17px;
+    padding: 18px 16px;
+    border-radius: 15%;
+}
+
+#nav li a:hover
+{
+    background-color: #505050 ;
+    color: #CD8C09;
+}
+body{	
+	background-color : #191919;
+}	
+    
+#B1{
+
+font-size: 70px;
+font-weight: 50px;
+text-align: center;
+margin:0px 10px 0px 10px;
+}
+    
+  
+   
+  
